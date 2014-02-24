@@ -1,0 +1,1 @@
+class NotEnoughInsulin < StandardError ; end
